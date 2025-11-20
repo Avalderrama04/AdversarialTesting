@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](Figure_1.png)
 ## About
 Adversarial attacks attempt to deceive learning models by implementing a defective input,
 compromising the effectiveness as a result. We explore the mechanisms behind attacks on convolutional
